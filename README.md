@@ -3,6 +3,8 @@
 > 用python 2.7实现的web框架建立的功能平台，基于原作者进行二次开发
 > web框架是flask  前端框架是amazeUI
 
+yiducloud test
+
 ## 安装
 `git clone xxx.git`
 
